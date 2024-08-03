@@ -1,0 +1,7 @@
+b b m b m b m b b
+b c 0 0 0 0 0 v b
+m 0 m 0 m 0 m 0 m
+b c 0 v 0 0 0 p b
+m 0 m 0 m 0 m 0 m
+b o 0 o 0 0 0 p b
+b b m b m b m b b
